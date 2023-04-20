@@ -1,0 +1,40 @@
+/* CSS Document */
+
+body{background-color:#21E5B7; }
+
+h1{
+	background-color: crimson;
+     color:cornsilk;
+	font-family:Arial black;
+	text-transform: uppercase;
+	text-align: center;
+
+
+}
+ul li{display:inline; margin-left: 15px; 
+}
+ul li{font-size:24px;
+}
+a{
+	text-decoration:none;
+}
+a hover{
+	color:darkred;
+}
+h2{
+	font-family:arial,helvetica,sans-serif;
+	Font-size:35;
+	Font-weight:bold;
+	Font-style:normal;
+	color:brown;
+	background-color: white;
+	
+}
+
+p{
+	font-family:Arial;
+	Font-size:20px;
+	Font-weight:normal;
+	text-justify: auto;
+	
+}
